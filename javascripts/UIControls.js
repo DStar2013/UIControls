@@ -3,8 +3,22 @@
 	//copyright d.star
 	var _ = {};
 	if (!w.UIControl) w.UIControl = _;
+	//Calendar
+	_.Calendar = (function() {
+		
+
+
+
+
+
+
+
+	})(window);
 	//
 	
+
+
+
 
 
 
